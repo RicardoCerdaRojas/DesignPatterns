@@ -12,5 +12,3 @@ coffee = new DSweetener(coffee);
 
 
 Console.WriteLine($"Producto: {coffee.Description} tiene un costo de: ${coffee.Cost}");
-
-
